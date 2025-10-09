@@ -84,3 +84,15 @@ Mi propósito es **demostrar cómo el análisis de datos puede impulsar decision
 
 **Gracias por visitar mi portafolio profesional.**  
 Estoy abierta a **colaboraciones, consultoría técnica y proyectos de análisis de datos** con enfoque en innovación, sostenibilidad y transformación digital.
+
+---
+
+## 🧰 Autor
+**Yaya Domínguez**  
+Consultora Freelance | Data Analyst | HSE Senior | Power BI | Python | SQL | Tableau | IA Aplicada | Gestión y Análisis de Riesgos Industriales  
+
+🔗 [LinkedIn](www.linkedin.com/in/yaya-dominguez-p)  
+📧 brainy333@gmail.com
+📧 contacto@mentora-360.com
+
+---
