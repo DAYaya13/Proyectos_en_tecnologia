@@ -1,4 +1,4 @@
-**Proyecto SQL**
+**Proyecto SQL** **Análisis de Datos de Libros**
 
 El coronavirus tomó al mundo entero por sorpresa, cambiando la rutina diaria de todos y todas. Los habitantes de las ciudades ya no pasaban su tiempo libre fuera, yendo a cafés y centros comerciales; sino que más gente se quedaba en casa, leyendo libros. Eso atrajo la atención de las startups (empresas emergentes) que se apresuraron a desarrollar nuevas aplicaciones para los amantes de los libros.
 
@@ -59,3 +59,11 @@ text: el texto de la reseña
 **Autor con la más alta calificación promedio en libros con al menos 50 calificaciones:** Encontrar al autor más valorado por los lectores, considerando solo libros con un número significativo de calificaciones.
 
 **Número promedio de reseñas de texto entre usuarios que calificaron más de 50 libros:** Entender el comportamiento de los usuarios más activos, midiendo cuántas reseñas de texto suelen hacer.
+
+**Valor del Análisis**
+
+Este proyecto permite:
+
+Identificar patrones de publicación y lectura en el mercado editorial digital.
+Reconocer autores y editoriales más valorados por los usuarios.
+Comprender la interacción de los lectores más activos, generando insights clave para el desarrollo de productos y estrategias de marketing.
