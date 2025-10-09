@@ -7,37 +7,37 @@ Te han dado una base de datos de uno de los servicios que compiten en este merca
 **Diccionario de Datos**
 **books**
 
-Contiene datos sobre libros:
+**Contiene datos sobre libros:**
 
-book_id: identificación del libro
-author_id: identificación del autor o autora
-title: título
-num_pages: número de páginas
-publication_date: fecha de la publicación
-publisher_id: identificación de la editorial
+**book_id:** identificación del libro
+**author_id:** identificación del autor o autora
+**title:** título
+**num_pages:** número de páginas
+**publication_date:** fecha de la publicación
+**publisher_id:** identificación de la editorial
 
 **authors**
 
 Contiene datos sobre autores:
 
-author_id: identificación del autor o autora
-author: el autor o la autora
+**author_id:** identificación del autor o autora
+**author:** el autor o la autora
 
 **publishers**
 
 Contiene datos sobre editoriales:
 
-publisher_id: identificación de la editorial
-publisher: la editorial
+**publisher_id:** identificación de la editorial
+**publisher:** la editorial
 
 **ratings**
 
 Contiene datos sobre las calificaciones de usuarios:
 
-rating_id: identificación de la calificación
-book_id: identificación del libro
-username: el nombre del usuario que revisó el libro
-rating: calificación
+**rating_id:** identificación de la calificación
+**book_id:** identificación del libro
+**username:** el nombre del usuario que revisó el libro
+**rating:** calificación
 
 **reviews**
 
@@ -49,12 +49,13 @@ username: el nombre del usuario que revisó el libro
 text: el texto de la reseña
 
 **Objetivos del estudio**
-Número de libros publicados después del 1 de enero de 2000: Conocer uántos libros se han publicado después de esta fecha para entender la tendencia de publicaciones en el siglo XXI.
 
-Número de reseñas y calificación promedio por libro: Analizar la interacción de los usuarios con los libros, midiendo cuántas reseñas han recibido y cuál es la calificación promedio.
+**Número de libros publicados después del 1 de enero de 2000:** Conocer uántos libros se han publicado después de esta fecha para entender la tendencia de publicaciones en el siglo XXI.
 
-Editorial con más libros publicados con más de 50 páginas: Queremos identificar la editorial más activa en la publicación de libros sustanciales, excluyendo folletos y publicaciones cortas.
+**Número de reseñas y calificación promedio por libro:** Analizar la interacción de los usuarios con los libros, midiendo cuántas reseñas han recibido y cuál es la calificación promedio.
 
-Autor con la más alta calificación promedio en libros con al menos 50 calificaciones: Encontrar al autor más valorado por los lectores, considerando solo libros con un número significativo de calificaciones.
+**Editorial con más libros publicados con más de 50 páginas:** Queremos identificar la editorial más activa en la publicación de libros sustanciales, excluyendo folletos y publicaciones cortas.
 
-Número promedio de reseñas de texto entre usuarios que calificaron más de 50 libros: Entender el comportamiento de los usuarios más activos, midiendo cuántas reseñas de texto suelen hacer.
+**Autor con la más alta calificación promedio en libros con al menos 50 calificaciones:** Encontrar al autor más valorado por los lectores, considerando solo libros con un número significativo de calificaciones.
+
+**Número promedio de reseñas de texto entre usuarios que calificaron más de 50 libros:** Entender el comportamiento de los usuarios más activos, midiendo cuántas reseñas de texto suelen hacer.
