@@ -79,7 +79,7 @@ Este análisis permite:
 **Yaya Domínguez**  
 Consultora Freelance | Data Analyst | HSE Senior | Power BI | Python | SQL | Tableau | IA Aplicada | Gestión y Análisis de Riesgos Industriales  
 
-🔗 [LinkedIn](www.linkedin.com/in/yaya-dominguez-p)  
+🔗 [LinkedIn](https://linkedin.com/in/yaya-dominguez-p) 
 📧 brainy333@gmail.com
 📧 contacto@mentora-360.com
 
