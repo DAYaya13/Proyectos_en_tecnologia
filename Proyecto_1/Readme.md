@@ -4,6 +4,8 @@ El coronavirus tomó al mundo entero por sorpresa, cambiando la rutina diaria de
 
 Te han dado una base de datos de uno de los servicios que compiten en este mercado. Contiene datos sobre libros, editoriales, autores y calificaciones de clientes y reseñas de libros. Esta información se utilizará para generar una propuesta de valor para un nuevo producto.
 
+---
+
 **Diccionario de Datos**
 **books**
 
@@ -47,6 +49,8 @@ review_id: identificación de la reseña
 book_id: identificación del libro
 username: el nombre del usuario que revisó el libro
 text: el texto de la reseña
+
+---
 
 **Objetivos del estudio**
 
