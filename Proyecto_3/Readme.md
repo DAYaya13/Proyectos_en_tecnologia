@@ -56,3 +56,13 @@ Model Fitness digitalizó los perfiles de sus clientes para permitir un análisi
 El análisis de datos permitió **identificar clientes en riesgo de abandono**, segmentarlos y proponer estrategias personalizadas de retención.  
 Implementar estas recomendaciones puede **reducir la pérdida de clientes, aumentar la fidelidad y optimizar la rentabilidad del gimnasio**.
 
+## 🧰 Autor
+**Yaya Domínguez**  
+Consultora Freelance | Data Analyst | HSE Senior | Power BI | Python | SQL | Tableau | IA Aplicada | Gestión y Análisis de Riesgos Industriales  
+
+🔗 [LinkedIn](www.linkedin.com/in/yaya-dominguez-p)  
+📧 brainy333@gmail.com
+📧 contacto@mentora-360.com
+
+---
+
