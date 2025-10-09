@@ -80,7 +80,7 @@ El análisis permitió identificar:
 
 ## 🧰 Autor
 **Yaya Domínguez**  
-Analista de Datos | Seguridad Industrial & Power BI  
+Consultora Freelance | Data Analyst | HSE Senior | Power BI | Python | SQL | Tableau | IA Aplicada | Gestión y Análisis de Riesgos Industriales  
 
 🔗 [LinkedIn](www.linkedin.com/in/yaya-dominguez-p)  
 📧 brainy333@gmail.com
