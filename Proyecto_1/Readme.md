@@ -60,6 +60,8 @@ text: el texto de la reseña
 
 **Número promedio de reseñas de texto entre usuarios que calificaron más de 50 libros:** Entender el comportamiento de los usuarios más activos, midiendo cuántas reseñas de texto suelen hacer.
 
+---
+
 **Valor del Análisis**
 
 Este proyecto permite:
@@ -67,3 +69,15 @@ Este proyecto permite:
 Identificar patrones de publicación y lectura en el mercado editorial digital.
 Reconocer autores y editoriales más valorados por los usuarios.
 Comprender la interacción de los lectores más activos, generando insights clave para el desarrollo de productos y estrategias de marketing.
+
+---
+
+## 🧰 Autor
+**Yaya Domínguez**  
+Consultora Freelance | Data Analyst | HSE Senior | Power BI | Python | SQL | Tableau | IA Aplicada | Gestión y Análisis de Riesgos Industriales  
+
+🔗 [LinkedIn](www.linkedin.com/in/yaya-dominguez-p)  
+📧 brainy333@gmail.com
+📧 contacto@mentora-360.com
+
+---
