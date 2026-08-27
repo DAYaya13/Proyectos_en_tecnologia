@@ -8,25 +8,25 @@ Cada proyecto incluye el problema que resolvía, las herramientas usadas y los r
 
 ---
 
-## 🤖 Proyecto 1 — Automatización: Lectura de estudios clínicos
+## ⭐ Proyecto destacado — Lectura automática de estudios clínicos
 
 **Herramientas:** Python, pdfplumber, modelos de visión, openpyxl
 
-Un consultorio recibe unos 300 estudios de sueño al mes por correo: informes de equipo en PDF y cuestionarios llenados a mano. La captura manual consumía tanto tiempo que la mayoría de los estudios nunca se registraba.
+Un consultorio recibe unos 300 estudios de sueño al mes por correo: informes de equipo en PDF y cuestionarios llenados a mano. La captura manual consumía tanto tiempo que la mayoría de los estudios nunca llegaba a registrarse.
 
-Construí un extractor que lee los informes digitales con precisión cercana al total y procesa los cuestionarios escaneados señalando su nivel de certeza, en lugar de rellenar los huecos por su cuenta.
+Construí un extractor que lee los informes digitales con precisión cercana al total, y un lector que procesa los cuestionarios escaneados señalando su nivel de certeza en lugar de rellenar los huecos por su cuenta.
 
 **Resultados:**
 - 41 variables extraídas por informe, sin captura manual
-- Clasificación de cada campo en tres estados: leído, ambiguo o vacío en el origen
-- Detección automática de informes duplicados con distinto estado de análisis
+- Cada campo clasificado en tres estados: leído, ambiguo o vacío en el origen
+- Detección de informes duplicados con distinto estado de análisis
 - Diseñado sin extraer datos de identificación de pacientes
 
-👉 [Ver proyecto](https://github.com/DAYaya13/extractor-estudios-clinicos)
+**➡️ [Ver el repositorio completo](https://github.com/DAYaya13/extractor-estudios-clinicos)**
 
 ---
 
-## 📊 Proyecto 2 — Power BI: Reporte de accidentabilidad laboral
+## 📊 01 · Power BI — Reporte de accidentabilidad laboral
 
 **Herramientas:** Power BI, DAX, Power Query
 
@@ -37,9 +37,11 @@ Tablero interactivo para el análisis mensual de accidentabilidad y seguimiento 
 - Identificación de las áreas con mayor frecuencia de incidentes
 - Soporte visual para decisiones preventivas y cumplimiento normativo
 
+📁 [`01-dashboard-accidentabilidad-powerbi`](./01-dashboard-accidentabilidad-powerbi)
+
 ---
 
-## 🧩 Proyecto 3 — SQL: Análisis de datos del sector editorial digital
+## 🧩 02 · SQL — Análisis del sector editorial digital
 
 **Herramientas:** SQL, PostgreSQL
 
@@ -50,9 +52,11 @@ Análisis de la base de datos de una startup de lectura digital —libros, autor
 - Análisis de calificaciones promedio y volumen de reseñas
 - Evaluación de publicaciones relevantes posteriores al año 2000
 
+📁 [`02-analisis-editorial-sql`](./02-analisis-editorial-sql)
+
 ---
 
-## ⚖️ Proyecto 4 — Prueba A/B: Sistema de recomendaciones en e-commerce
+## ⚖️ 03 · Prueba A/B — Sistema de recomendaciones en e-commerce
 
 **Herramientas:** Python, pandas, Matplotlib, SciPy
 
@@ -63,9 +67,11 @@ Evaluación de una prueba A/B en una tienda en línea que probó un nuevo embudo
 - Análisis de conversión en cada etapa del embudo
 - Recomendaciones para elevar la tasa de compra
 
+📁 [`03-prueba-ab-ecommerce`](./03-prueba-ab-ecommerce)
+
 ---
 
-## 🔮 Proyecto 5 — Machine Learning: Predicción de cancelación de clientes
+## 🔮 04 · Machine Learning — Predicción de cancelación de clientes
 
 **Herramientas:** Python, scikit-learn, pandas, Seaborn, K-Means
 
@@ -75,6 +81,8 @@ Análisis predictivo para una cadena de gimnasios con el objetivo de anticipar l
 - Identificación de segmentos con alto riesgo de cancelación
 - Correlación entre duración del contrato y permanencia
 - Estrategias de fidelización según el comportamiento de cada segmento
+
+📁 [`04-prediccion-cancelacion-ml`](./04-prediccion-cancelacion-ml)
 
 ---
 
