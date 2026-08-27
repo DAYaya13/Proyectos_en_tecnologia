@@ -107,8 +107,5 @@ También imparto formación en IA aplicada al trabajo, automatización y anális
 
 Disponible para proyectos y colaboraciones remotas.
 
-🔗 [LinkedIn](https://linkedin.com/in/yaya-dominguez-p)  
-📧 brainy333@gmail.com
-📧 contacto@mentora-360.com
 
 ---
