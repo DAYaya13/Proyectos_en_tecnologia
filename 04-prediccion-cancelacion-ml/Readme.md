@@ -57,12 +57,9 @@ El análisis de datos permitió **identificar clientes en riesgo de abandono**, 
 Implementar estas recomendaciones puede **reducir la pérdida de clientes, aumentar la fidelidad y optimizar la rentabilidad del gimnasio**.
 
 ## 🧰 Autor
-**Yaya Domínguez**  
-Consultora Freelance | Data Analyst | HSE Senior | Power BI | Python | SQL | Tableau | IA Aplicada | Gestión y Análisis de Riesgos Industriales  
+Yaya Domínguez — Fundadora de Mentora 360®
 
-🔗 [LinkedIn](https://linkedin.com/in/yaya-dominguez-p) 
-📧 brainy333@gmail.com
-📧 contacto@mentora-360.com
+LinkedIn · info@360-mentora.com
 
 ---
 
