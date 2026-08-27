@@ -77,11 +77,8 @@ Comprender la interacción de los lectores más activos, generando insights clav
 ---
 
 ## 🧰 Autor
-**Yaya Domínguez**  
-Consultora Freelance | Data Analyst | HSE Senior | Power BI | Python | SQL | Tableau | IA Aplicada | Gestión y Análisis de Riesgos Industriales  
+Yaya Domínguez — Fundadora de Mentora 360®
 
-🔗 [LinkedIn](https://linkedin.com/in/yaya-dominguez-p)  
-📧 brainy333@gmail.com
-📧 contacto@mentora-360.com
+LinkedIn · info@360-mentora.com
 
 ---
